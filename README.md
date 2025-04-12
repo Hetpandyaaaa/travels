@@ -1,7 +1,7 @@
 🌍 WEhub - World Explorer | AI Travel Planner
 Welcome to WEhub, your ultimate AI-powered travel planning companion! Plan the perfect journey across the world’s most breathtaking destinations with personalized recommendations, interactive maps, and seamless design.
 
-🌐 Visit WEhub
+🌐 Visit WEhub:https://wehub-kp.netlify.app/
 🌟 Features
 1. Responsive Design
 Mobile-First Approach: Ensures a seamless experience across all devices, from desktops to smartphones.
